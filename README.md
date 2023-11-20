@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Lasya</h1>
+<h3 align="center">Web developer </h3>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-<!--
-**lasyagowda/lasyagowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=havyasam&label=Profile%20views&color=0e75b6&style=flat" alt="havyasam" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning *React JS*
+
+
+- 📫 How to reach me *lasyagowda617@gmail.com*
+
+
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lasyagowda"/></a>
